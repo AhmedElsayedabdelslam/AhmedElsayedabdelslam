@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGcEEzJ-L5xkfhBrqn9VnxnwxoSkgnEYipg&s)" width="60" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGcEEzJ-L5xkfhBrqn9VnxnwxoSkgnEYipg&s" width="60" />
   <span style="background: linear-gradient(45deg, #007ACC, #00D4FF, #FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(0, 212, 255, 0.5); font-size: 3.5rem;">𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌</span>
   <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
 </h1>
