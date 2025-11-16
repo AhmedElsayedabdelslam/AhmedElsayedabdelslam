@@ -73,3 +73,41 @@ class AhmedElsayed extends Developer {
 
 const ahmed = new AhmedElsayed();
 export default ahmed;
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
+⚡ Tech Stack & Superpowers
+💻 Programming Languages
+<div align="center"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) </div>
+🎨 Frontend Frameworks
+<div align="center"> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) </div>
+🎭 Styling & UI Frameworks
+<div align="center"> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) </div>
+💫 Featured Projects
+🏙️ Discover Cities - Advanced City Explorer
+<div align="center"> ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![OpenRouteService](https://img.shields.io/badge/OpenRouteService-00AFF0?style=flat-square) ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat-square&logo=unsplash&logoColor=white) ![NewsData API](https://img.shields.io/badge/NewsData_API-FF6B6B?style=flat-square) ![Real-time](https://img.shields.io/badge/Real--time-00D26A?style=flat-square) </div>
+🌟 Features
+
+Explore 200+ cities worldwide with real-time data
+
+Interactive maps with OpenRouteService integration
+
+High-quality images from Unsplash API
+
+Latest news and updates for each city
+
+Responsive design with smooth animations
+
+Advanced search and filtering capabilities
+
+📊 Technical Highlights
+
+javascript
+Copy code
+const discoverCities = {
+  architecture: "SPA (Single Page Application)",
+  stateManagement: "Vuex/Pinia",
+  apiIntegration: "RESTful & GraphQL Hybrid",
+  performance: "Lazy Loading & Code Splitting",
+  deployment: "CI/CD with GitHub Actions",
+  monitoring: "Real-time Analytics"
+};
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div> ```
