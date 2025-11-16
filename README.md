@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif](https://www.google.com/imgres?q=%D8%B5%D9%88%D8%B1%20%D8%AA%D9%86%D9%8A%D9%86%204k&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D103876418094078&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D103876418094078%26id%3D103835878098132%26set%3Da.103872984761088&docid=CrM8Ks2xt-9NxM&tbnid=kHLdpphrwzoXhM&vet=12ahUKEwjgjO313PaQAxWcV6QEHZovIHUQM3oECCYQAA..i&w=720&h=1280&hcb=2&ved=2ahUKEwjgjO313PaQAxWcV6QEHZovIHUQM3oECCYQAA)" width="60" />
+  <img src="[https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGcEEzJ-L5xkfhBrqn9VnxnwxoSkgnEYipg&s)" width="60" />
   <span style="background: linear-gradient(45deg, #007ACC, #00D4FF, #FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(0, 212, 255, 0.5); font-size: 3.5rem;">𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌</span>
   <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
 </h1>
