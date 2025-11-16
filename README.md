@@ -1,29 +1,4 @@
-<!-- ========== 𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 HEADER ========== -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
-  <span style="background: linear-gradient(45deg, #007ACC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌
-  </span>
-  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
-</h1>
-
-<div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/username" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/username/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/username" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-
+<h1 align="center"> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> <span style="background: linear-gradient(45deg, #007ACC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌 </span> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=007ACC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%26+Digital+Architect;React+%7C+Vue+%7C+Node.js+Specialist;500%2B+Users+Experience+%26+98%25+Accuracy;E-commerce+%26+Shopify+Expert;Building+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Innovator;Always+Learning+%26+Growing" />
 </p>
