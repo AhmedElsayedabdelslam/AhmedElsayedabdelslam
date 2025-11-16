@@ -1,9 +1,4 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> <span style="background: linear-gradient(45deg, #007ACC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌 </span> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=007ACC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%26+Digital+Architect;React+%7C+Vue+%7C+Node.js+Specialist;500%2B+Users+Experience+%26+98%25+Accuracy;E-commerce+%26+Shopify+Expert;Building+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Innovator;Always+Learning+%26+Growing" />
-</p>
-
----
 
 ## 💻 Tech Stack
 
