@@ -1,4 +1,25 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> <span style="background: linear-gradient(45deg, #007ACC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌 </span> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> </h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
+  <span style="background: linear-gradient(45deg, #007ACC, #00D4FF, #FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(0, 212, 255, 0.5); font-size: 3.5rem;">𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌</span>
+  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=50&lines=🚀+Full+Stack+Developer+%26+Digital+Architect;💫+React+%7C+Vue+%7C+Node.js+Specialist;🎯+500%2B+Users+%7C+98%25+Accuracy;🔥+E-commerce+%26+Shopify+Expert;⚡+Building+Scalable+Applications;🌟+Open+Source+Contributor;🎨+Clean+Code+Enthusiast" alt="Typing Animation" />
+</h3>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AhmedElsayedabdelslam&color=007ACC&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+  ![GitHub Followers](https://img.shields.io/github/followers/AhmedElsayedabdelslam?color=007ACC&logo=github&style=for-the-badge&label=👥+FOLLOWERS)
+  ![GitHub Stars](https://img.shields.io/github/stars/AhmedElsayedabdelslam?color=007ACC&logo=github&style=for-the-badge&label=⭐+STARS)
+  ![Repositories](https://img.shields.io/badge/📂+REPOSITORIES-15+-007ACC?style=for-the-badge)
+  ![Accuracy](https://img.shields.io/badge/🎯+ACCURACY-98%25-007ACC?style=for-the-badge)
+
+</div>
+
+<br>
+
 ## 💻 Tech Stack
 
 ### Frontend
