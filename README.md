@@ -1,36 +1,4 @@
-<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" style="animation: bounce 1.5s infinite;" />
-  <span style="
-    font-size: 2.2rem; 
-    font-weight: 800; 
-    background: linear-gradient(135deg, #007ACC, #00D4FF, #FF6EC7); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent; 
-    animation: shine 3s infinite linear;
-    display: inline-block;
-  ">
-    𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌
-  </span>
-  <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" style="animation: bounce 1.5s infinite;" />
-</h1>
-
-<style>
-  @keyframes shine {
-    0% { background-position: -500px; }
-    100% { background-position: 500px; }
-  }
-
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
-
-  span {
-    background-size: 200% auto;
-  }
-</style>
-
-
+<h1 align="center"> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> <span style="background: linear-gradient(45deg, #007ACC, #00D4FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> 𝐀𝐇𝐌𝐄𝐃 𝐄𝐋𝐒𝐀𝐘𝐄𝐃 𝐀𝐁𝐃𝐄𝐋𝐒𝐋𝐀𝐌 </span> <img src="https://media.giphy.com/media/2kFqOjP2WdWb7h1dVy/giphy.gif" width="60" /> </h1>
 ## 💻 Tech Stack
 
 ### Frontend
