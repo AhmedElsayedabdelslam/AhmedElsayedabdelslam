@@ -1,3 +1,4 @@
+
   <!--Banner-->
 <p><img src="https://github.com/Kiran1689/kiran1689/blob/main/banner.png" alt="Kiran1689 Banner Image"></p>
 <!--Night Owl image-->
@@ -110,10 +111,3 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;">
 </a>
 </div>
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
-</p>
-<hr>
-<p>Credit: <a href="https://github.com/Kiran1689">Kiran1689</a></p>
-<p>Last Edited on: 29/11/2023</p> 
